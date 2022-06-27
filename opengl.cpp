@@ -12,7 +12,6 @@ class cycle
 	
 	public:
 		void body();
-	
 };
 
 void cycle::body()
